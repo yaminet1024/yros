@@ -8,13 +8,21 @@
     <artifactId>yros</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
+
     <dependencies>
+        <!--仅用来参考-->
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
             <version>3.12.0</version>
         </dependency>
+
+
     </dependencies>
+
+
+    
 
 
 </project>
